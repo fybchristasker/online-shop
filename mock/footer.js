@@ -11,15 +11,15 @@ export const footerContent = [
       },
       {
         text: "contactUs",
-        href: "/blank",
+        href: "/",
       },
       {
         text: "saleInZishop",
-        href: "/blank",
+        href: "/",
       },
       {
         text: "careerOpportunities",
-        href: "/blank",
+        href: "/",
       },
     ],
   },
@@ -28,15 +28,15 @@ export const footerContent = [
     subtitles: [
       {
         text: "commonQuestions",
-        href: "/blank",
+        href: "/",
       },
       {
         text: "returnProcedures",
-        href: "/blank",
+        href: "/",
       },
       {
         text: "privacy",
-        href: "/blank",
+        href: "/",
       },
     ],
   },
@@ -45,15 +45,15 @@ export const footerContent = [
     subtitles: [
       {
         text: "howToPlaceAnOrder",
-        href: "/blank",
+        href: "/",
       },
       {
         text: "orderSubmissionProcedure",
-        href: "/blank",
+        href: "/",
       },
       {
         text: "paymentMethods",
-        href: "/blank",
+        href: "/",
       },
     ],
   },
