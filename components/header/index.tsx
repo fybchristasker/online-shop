@@ -25,7 +25,7 @@ const index = () => {
           </div>
           <Settings /> {/* 👈settings: md:hidden */}
           <div className="hidden md:flex md:items-center md:justify-between">
-            {/* <Language /> */}
+            <Language />
             <Theme />
           </div>
         </div>
