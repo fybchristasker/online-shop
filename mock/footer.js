@@ -6,10 +6,6 @@ export const footerContent = [
     title: "zishopMap",
     subtitles: [
       {
-        text: "aboutUs",
-        href: "/about",
-      },
-      {
         text: "contactUs",
         href: "/",
       },

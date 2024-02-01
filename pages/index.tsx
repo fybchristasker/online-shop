@@ -10,7 +10,6 @@ import { client } from "../lib/client";
 
 import Benefits from "../components/Benefits";
 import Carousel from "../components/carousel";
-const Offers = dynamic(() => import("../components/Offers/Offers"));
 const Category = dynamic(() => import("../components/category/Category"));
 const Newest = dynamic(() => import("../components/newest/Newest"));
 const Brands = dynamic(() => import("../components/brands"));
@@ -36,7 +35,6 @@ const Home: NextPage<{ products: IProduct[] }> = ({ products }) => {
     <div>
       <Carousel />
       <Benefits />
-      <Offers />
       <Category />
       <Newest />
       <Banners />
