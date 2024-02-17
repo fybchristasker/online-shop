@@ -18,26 +18,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="border-t-[1px] border-slate-500/30 text-center text-xs md:text-sm py-4">
-        <div className="py-1">
-          <StartQuot
-            style={{
-              display: "inline",
-              verticalAlign: "top",
-              fontSize: "0.8rem",
-              color: "#A71B4A",
-            }}
-          />
-          {t.cafeDX}
-          <EndQuot
-            style={{
-              display: "inline",
-              verticalAlign: "top",
-              fontSize: "0.8rem",
-              color: "#A71B4A",
-            }}
-          />
-          &nbsp;
-        </div>
+        <div className="py-1">Copyright @SparkCo.</div>
       </div>
     </footer>
   );
